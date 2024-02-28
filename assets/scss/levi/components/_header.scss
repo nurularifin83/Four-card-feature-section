@@ -1,0 +1,12 @@
+header {
+    h1:not(:nth-child(2)) {
+        font-weight: 200;
+        opacity: 80%;
+    }
+    p {
+        width: 100%;
+        max-width: 500px;
+        margin: auto;
+        opacity: 50%;
+    }
+}

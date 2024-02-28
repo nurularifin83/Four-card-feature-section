@@ -1,0 +1,18 @@
+/*Funcitons and Variables*/
+@import 'functions';
+@import 'variables';
+
+/*Base and layout*/
+@import 'base';
+@import 'breakpoints';
+@import 'grid';
+
+/*Colors*/
+
+/*Components*/
+@import 'components/header';
+@import 'components/card';
+@import 'components/footer';
+
+/*Margin, padding*/
+@import 'utilities';

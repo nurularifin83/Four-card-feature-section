@@ -1,0 +1,40 @@
+.content {
+    display: flex;
+    align-items: center;
+}
+
+.card {
+    background-color: $very-light-gray;
+    margin: 0px 0px 20px 0px;
+    border-radius: 8px;
+    border-top: 4px solid;
+    box-shadow: 12px 5px 100px 1px $grayish-blue;
+}
+
+.card {
+    &1 {
+        border-color: $cyan;
+    }
+    &2{
+        border-color: $red;
+    }
+    &3{
+        border-color: $orange;
+    }
+    &4{
+        border-color: $blue;
+    }
+    &-d{
+        margin: 25px;
+        width: 100%;
+        max-width: 85%;
+        p {
+            opacity: 50%;
+        }
+    }
+}
+
+img {
+    float: right;
+    margin-top: 20px;
+}

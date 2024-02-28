@@ -1,0 +1,7 @@
+@function pyCount($n) {
+    $i: 0;
+    @for $_ from 0 through $n {
+        $i: $n + $_;
+    }
+    @return $i;
+}

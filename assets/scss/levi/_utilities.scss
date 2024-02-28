@@ -1,0 +1,27 @@
+@use 'sass:math';
+
+@for $i from 0 through 2 {
+    .py-#{$i} {
+        padding-top: pyCount($i) * math.div(0.25rem, 2) !important;
+        padding-bottom: pyCount($i) * math.div(0.25rem, 2) !important;  
+    }
+}
+
+.py- {
+    &3 {
+        padding-top: 1rem !important;
+        padding-bottom: 1rem !important;
+    }
+    &4 {
+        padding-top: 1.5rem !important;
+        padding-bottom: 1.5rem !important;
+    }
+    &5 {
+        padding-top: 3rem !important;
+        padding-bottom: 3rem !important;
+    }
+}
+
+.text-center {
+    text-align: center !important;
+}
