@@ -1,6 +1,6 @@
 # Frontend Mentor - Four card feature section solution
 
-![Design preview for the Four card feature section challenge on Frontend Mentor]()
+![Design preview for the Four card feature section challenge on Frontend Mentor](https://raw.githubusercontent.com/nurularifin83/Four-card-feature-section/main/feature-image.png)
 
 This is a solution to the [Four card feature section challenge on Frontend Mentor](). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
