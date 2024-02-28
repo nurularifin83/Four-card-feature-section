@@ -2,7 +2,7 @@
 
 ![Design preview for the Four card feature section challenge on Frontend Mentor](https://raw.githubusercontent.com/nurularifin83/Four-card-feature-section/main/feature-image.png)
 
-This is a solution to the [Four card feature section challenge on Frontend Mentor](). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-four-card-feature-section-page-using-css-grid-KfsYwgc1Ue). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -18,7 +18,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Solution URL here]()
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/responsive-four-card-feature-section-page-using-css-grid-KfsYwgc1Ue)
 - Live Site URL: [Live site URL here](https://nurularifin83.github.io/Four-card-feature-section/)
 
 ## My process
